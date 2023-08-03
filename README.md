@@ -17,7 +17,7 @@
 <a href="https://discord.gg/https://discord.gg/MFNtuXdZSh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/MFNtuXdZSh" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">⠀</h3>
+<h1 align="left">⠀</h1>
 <h3 align="left">⠀</h3>
 
 <h3 align="left">Programming Languages:</h3>
@@ -65,5 +65,7 @@
 </p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TopG-69&show_icons=true&theme=dark&hide_border=true&locale=en" alt="daa" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TopG-69&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="daa" /></p>
+
+<h1 align="left">⠀</h1>
 
 ![logo](https://github.com/TopG-69/DAa/blob/main/footer.png)
