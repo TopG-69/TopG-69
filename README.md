@@ -5,6 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daa&label=Profile%20views&color=0e75b6&style=flat" alt="daa" /> </p>
 
+<h1 align="left">⠀</h1>
+
 - Currently developing **DAa**
 
 - Secondary project **Agony**
