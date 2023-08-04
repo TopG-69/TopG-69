@@ -9,7 +9,7 @@
 
 - Currently developing **DAa**
 
-- Secondary projects: **Agony** *(Scrip Hub)*, **Atomic** *(game)*, **KS 1.12** *(Cheating software [like cheatengine])*
+- Secondary projects: **Agony** *(Script Hub)*, **Atomic** *(game)*, **KS 1.12** *(Cheating software [like cheatengine])*
 
 <h2 align="left">⠀</h2>
 
