@@ -27,7 +27,9 @@
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
+<a href="http://www.lua.org/" target="_blank" rel="noreferrer"> <img src="(https://cdn.discordapp.com/attachments/817400475258585098/1137550203956772874/UHdz3MQ6x9i5dvEFu8zgpdZaCbBr5DKmZt7VeoHHiWwtRnQl2j74hF5Om7GOqqLYXalawvxN9eeVYNBsUEGuAz2bPrDhuN5r8d66HwXrMBGu0f6RqfCTbF21w4TMs0yzJthzl3PtAjlu7vycAOc3g0NsH3DftEXFtO6cb5w7mjOtndXt8rZemFy4Fs8Gbm9IcHYfRMnsAqT1QoMt8zTXkinzlcVlVXEe024VzPl4K2s7XPNvOnYb1xrsos3DgVD5z7mbiGbME10ugq8B1WWyGhdapcJXDk41tNdpPHwW.png" alt="typescript" width="40" height="40"/> </a> 
+</p>
 <h1 align="left">⠀</h1>
 <h3 align="left">Frontend Development:</h3>
 <p <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> 
