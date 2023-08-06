@@ -54,7 +54,9 @@
 <p <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
 <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> </p>
 <h3 align="left"><h3 align="left">Other:</h3>
-<p <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p> 
+<p <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<p <a href="https://www.autohotkey.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/TopG-69/DAa/blob/main/ahk.png" alt="ahk" width="40" height="40"/> </a> 
+</p> 
 <h1 align="left">⠀</h1>
 <h3 align="left"><h3 align="left">Game Engines:</h3>
 <p <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
