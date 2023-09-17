@@ -7,9 +7,10 @@
 
 <h1 align="left">⠀</h1>
 
-- Currently developing **DAa**
+- Currently developing **DAa** *(Cheat hub)*
 
-- Secondary projects: **Agony** *(Script Hub)*, **Atomic** *(game)*, **KS 1.12** *(Cheating software [__simular to cheatengine__])*
+- Secondary projects: **Agony** *(Roblox script hub)*
+- Old projects: **CCC** *(Minecraft Cheat)*, **Atomic** *(Game)*, **KS 1.12** *(Cheating software [__simular to cheatengine__])*
 
 <h2 align="left">⠀</h2>
 
