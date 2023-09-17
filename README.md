@@ -7,10 +7,12 @@
 
 <h1 align="left">⠀</h1>
 
-- Currently developing **DAa** *(Cheat hub)*
+- Currently developing **DAa** *(Cheat hub <2016/->)*
+- Secondary projects: **Agony** *(Roblox script hub <2023/->)*
 
-- Secondary projects: **Agony** *(Roblox script hub)*
-- Old projects: **CCC** *(Minecraft Cheat)*, **Atomic** *(Game)*, **KS 1.12** *(Cheating software [__simular to cheatengine__])*
+- Furute projects: **DAa V2** *(Much needed improved version of __DAa__ <2024[h3]/->)*, **Spark** *(Coding & Development extension for __DAa V2__ <2024[h4]/->)*
+
+- Old projects: **CCC** *(Minecraft Cheat <2019/2019>)*, **Atomic** *(Game <2021/2023>)*, **KS 1.12** *(Cheating software [__simular to cheatengine__] <2019/2020>)*, **Weeb** *(Voice assistant <2021/2023>)*
 
 <h2 align="left">⠀</h2>
 
