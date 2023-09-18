@@ -8,7 +8,7 @@
 <h1 align="left">⠀</h1>
 
 - Currently developing **DAa** *(Cheat hub <2016/->)*
-- Secondary projects: **Agony** *(Roblox script hub <2023/->)*, **DAa LFW-V2** *(A hud library what will be used for __DAa V2__ <2023[h3]/2024[h3]>)*
+- Secondary projects: **Agony** *(Roblox script hub <2023/->)*, **DAa LFW-V2** *(A library what will be used for __DAa V2__ <2023[h3]/2024[h3]>)*
 
 - Future projects: **DAa V2** *(Much needed improved version of __DAa__ <2024[h3]/->)*, **Spark** *(Coding & Development extension for __DAa V2__ <2024[h4]/->)*
 
