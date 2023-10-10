@@ -3,7 +3,7 @@
 <h1 align="center">Hello, I'm death</h1>
 <h3 align="center">A unpassionate developer.</h3>
 
-</p><img align="center"> src="https://komarev.com/ghpvc/?username=daa&label=Profile%20views&color=0e75b6&style=flat" alt="daa" /></p>
+</p><align="center"><img src="https://komarev.com/ghpvc/?username=daa&label=Profile%20views&color=0e75b6&style=flat" alt="daa" /></p>
 
 <h1 align="left">⠀</h1>
 
